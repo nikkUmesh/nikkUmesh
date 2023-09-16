@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikkUmesh
-- 👀 I’m interested in ...coading
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...corejava
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
